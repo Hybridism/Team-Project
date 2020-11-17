@@ -1,5 +1,5 @@
 # Team-Project
-[![Contributors][contributors-shield]][contributors-url]
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
